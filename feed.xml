@@ -12,7 +12,7 @@
 	<atom:link href="https://news.leoc.co.jp/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://news.leoc.co.jp/wordpress</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 Jul 2026 07:52:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jul 2026 09:17:49 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,11 +20,51 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.21</generator>
 	<item>
+		<title>LEOCシステム メンテナンスのお知らせ</title>
+		<link>https://news.leoc.co.jp/wordpress/2026/07/17/post-927/</link>
+				<pubDate>Fri, 17 Jul 2026 09:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[吉野 宏彦]]></dc:creator>
+				<category><![CDATA[システム]]></category>
+
+		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=927</guid>
+				<description><![CDATA[2026年8月15日（土）にLEOCシステムのサーバーメンテナンスを行います。メンテナンスを行う前にデータ送受信が必要となりますので、下記ご...]]></description>
+									</item>
+		<item>
+		<title>【事前案内】マイカー/バイク/原付使用の適正確認（年次更新）</title>
+		<link>https://news.leoc.co.jp/wordpress/2026/07/16/post-7958/</link>
+				<pubDate>Thu, 16 Jul 2026 09:17:48 +0000</pubDate>
+		<dc:creator><![CDATA[岩下仁美]]></dc:creator>
+				<category><![CDATA[給与]]></category>
+
+		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7958</guid>
+				<description><![CDATA[]]></description>
+									</item>
+		<item>
+		<title>～2026年下期6ヶ月定期申請のご案内～</title>
+		<link>https://news.leoc.co.jp/wordpress/2026/07/16/post-7951/</link>
+				<pubDate>Thu, 16 Jul 2026 09:17:27 +0000</pubDate>
+		<dc:creator><![CDATA[岩下仁美]]></dc:creator>
+				<category><![CDATA[給与]]></category>
+
+		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7951</guid>
+				<description><![CDATA[※首都圏・東北エリア、東海・関西エリア事業所の方のみ対象となります※ 毎日の業務、お疲れ様でございます。2026年度下期6ヶ月定期申請のご案...]]></description>
+									</item>
+		<item>
+		<title>労災インフォメーション【第31号】配信のお知らせ</title>
+		<link>https://news.leoc.co.jp/wordpress/2026/07/09/post-7917/</link>
+				<pubDate>Thu, 09 Jul 2026 07:42:48 +0000</pubDate>
+		<dc:creator><![CDATA[宮﨑実智]]></dc:creator>
+				<category><![CDATA[その他]]></category>
+
+		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7917</guid>
+				<description><![CDATA[リスクマネジメント部より、労災事故防止に向けた『労災インフォメーション』をお届けいたします。 今回のテーマは、 「落下事故防止対策」]]></description>
+									</item>
+		<item>
 		<title>2026年度衛生インフォメーション</title>
 		<link>https://news.leoc.co.jp/wordpress/2026/07/03/post-7913/</link>
 				<pubDate>Fri, 03 Jul 2026 07:52:20 +0000</pubDate>
 		<dc:creator><![CDATA[内田明子]]></dc:creator>
-				<category><![CDATA[その他11111]]></category>
+				<category><![CDATA[その他]]></category>
 
 		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7913</guid>
 				<description><![CDATA[生野菜・果物の殺菌方法について 生野菜・生果物の洗浄、殺菌について（カット・丸のまま）、　生きゅうり・水菜殺菌方法　　　　　　　　　　　　　...]]></description>
@@ -38,16 +78,6 @@
 
 		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7890</guid>
 				<description><![CDATA[先日、LEOCの事業所にて小火事案が発生いたしました。 これを受け、安全管理を再徹底するため、事案の共有と今後の防止対策を発信いたします。 ...]]></description>
-									</item>
-		<item>
-		<title></title>
-		<link></link>
-				<pubDate>Fri, 03 Jul 2026 06:11:38 +0000</pubDate>
-		<dc:creator><![CDATA[宮﨑実智]]></dc:creator>
-				<category></category>
-
-		<guid isPermaLink="false"></guid>
-				<description></description>
 									</item>
 		<item>
 		<title>【通達】人事関連規程改定（2026年7月1日付)</title>
@@ -189,47 +219,6 @@
 
 		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7762</guid>
 				<description><![CDATA[　※本内容は「東海関西」の事業所向けの案内です。 　事業所責任者様 　お疲れさまでございます。　2026年度の正社員・地域正社員登用試験のご...]]></description>
-									</item>
-		<item>
-		<title>【東北】正社員・地域正社員登用試験のご案内（2026年10月登用）</title>
-		<link>https://news.leoc.co.jp/wordpress/2026/04/22/post-7769/</link>
-				<pubDate>Wed, 22 Apr 2026 09:56:53 +0000</pubDate>
-		<dc:creator><![CDATA[石川 昌史]]></dc:creator>
-				<category><![CDATA[事業管理部]]></category>
-
-		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7769</guid>
-				<description><![CDATA[　※本内容は「東北」の事業所向けの案内です。 　事業所責任者様　　お疲れさまでございます。　2026年度の正社員・地域正社員登用試験のご案内...]]></description>
-									</item>
-		<item>
-		<title>【首都圏】正社員・地域正社員登用試験のご案内（2026年10月登用）</title>
-		<link>https://news.leoc.co.jp/wordpress/2026/04/22/post-7772/</link>
-				<pubDate>Wed, 22 Apr 2026 09:56:38 +0000</pubDate>
-		<dc:creator><![CDATA[石川 昌史]]></dc:creator>
-				<category><![CDATA[事業管理部]]></category>
-
-		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7772</guid>
-				<description><![CDATA[※本内容は「首都圏」の事業所向けの案内です。 　事業所責任者様　　お疲れさまでございます。　2026年度の 正社員・地域正社員登用試験のご案...]]></description>
-									</item>
-		<item>
-		<title>【GWの4月度月次書類発送について】</title>
-		<link>https://news.leoc.co.jp/wordpress/2026/04/21/post-7760/</link>
-				<pubDate>Tue, 21 Apr 2026 01:40:09 +0000</pubDate>
-		<dc:creator><![CDATA[松永和子]]></dc:creator>
-				<category><![CDATA[その他]]></category>
-		<category><![CDATA[経理]]></category>
-
-		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7760</guid>
-				<description><![CDATA[日々の業務、お疲れ様でございます。「4 月度 月次書類発送」についてお知らせいたします。[5/2(土)～5/6(水)の期間は普通郵便の配送は...]]></description>
-									</item>
-		<item>
-		<title>労災インフォメーション【第28号】配信のお知らせ</title>
-		<link>https://news.leoc.co.jp/wordpress/2026/04/15/post-7742/</link>
-				<pubDate>Wed, 15 Apr 2026 05:41:09 +0000</pubDate>
-		<dc:creator><![CDATA[宮﨑実智]]></dc:creator>
-				<category><![CDATA[リスクマネジメント担当]]></category>
-
-		<guid isPermaLink="false">https://news.leoc.co.jp/wordpress/?p=7742</guid>
-				<description><![CDATA[リスクマネジメント部より、労災事故防止に向けた『労災インフォメーション』をお届けいたします。今回のテーマは、 「切創事故防止対策」 包丁の扱...]]></description>
 									</item>
 	</channel>
 </rss>
